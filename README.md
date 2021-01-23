@@ -1,0 +1,2 @@
+# commiunity_detection_social_networks_Girvan
+implement Girvan-Newman algorithms for community detection
